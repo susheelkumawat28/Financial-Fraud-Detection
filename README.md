@@ -5,9 +5,13 @@ This project focuses on detecting fraudulent financial transactions using machin
 🔧 Features
 
 📊 Exploratory Data Analysis (EDA) to uncover fraud patterns
+
 🤖 Machine Learning model trained for fraud classification
+
 💾 Model saved (.pkl format) for reuse and deployment
+
 🗄️ Database created to store transactions and prediction results
+
 🧪 User input-based prediction app to test transactions one by one
 
 🛠️ Tech Stack
@@ -37,5 +41,7 @@ Deployment	Streamlit / Flask (if applicable)
 🔮 Future Enhancements
 
 Deploy the model on cloud (AWS / Render / Azure)
+
 Integrate live transaction API data
+
 Improve model accuracy using deep learning techniques (ANN, LSTM)
